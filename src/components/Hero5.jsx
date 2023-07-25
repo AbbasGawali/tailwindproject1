@@ -77,7 +77,7 @@ const Hero5 = () => {
         <motion.p
           initial={{
             scale: 0.1,
-            y: -100,
+            y: 100,
             opacity: 0,
           }}
           whileInView={{
